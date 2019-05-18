@@ -1,0 +1,28 @@
+{
+    "Name": "Better Escort",
+    "Enabled": true,
+    "Version": "0.0.0",
+    "Description": "Contains tweaks to contracts and lances and new content, by LA and Cargo_Vroom",
+    "Author": "Cargo Vroom",
+    "Website": "",
+    "Contact": "fakeemail@fakeemail.com",
+    "ConflictsWith": [],
+    "Manifest": [
+        {
+            "Type": "ContractOverride",
+            "Path": "contracts/captureescort"
+        },
+        {
+            "Type": "ContractOverride",
+            "Path": "contracts/captureescort/2"
+        },
+        {
+            "Type": "ContractOverride",
+            "Path": "contracts/captureescort/5"
+        },
+        {
+            "Type": "ContractOverride",
+            "Path": "contracts/captureescort/8"
+        }
+    ]
+}
