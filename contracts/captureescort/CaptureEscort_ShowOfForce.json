@@ -345,7 +345,7 @@
             "overrideDialogueBucketId" : "",
             "dialogueContent" : [
                 {
-                    "words" : "This is a convoy escort mission. We need to take a predetermined postition, rendezvous with the convoy, and get it to its destination in one piece.",
+                    "words" : "This is a convoy escort mission. We need to take a predetermined postilion, rendezvous with the convoy, and get it to its destination in one piece.",
                     "wordsColor" : {
                         "r" : 1,
                         "g" : 1,
