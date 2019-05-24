@@ -266,7 +266,7 @@
             "encounterChunk" : {
                 "EncounterObjectGuid" : "66728491-3cff-4ba8-b173-a6a386ce2c73"
             },
-            "enableChunkFromContract" : false,
+            "enableChunkFromContract" : true,
             "requirementList" : []
         }
     ],
@@ -1281,7 +1281,7 @@
                     "EncounterObjectGuid" : "8a365fc5-d25b-4d64-afbb-4ebf423721a9"
                 },
                 "name" : "Lance_Enemy_Hunter",
-                "lanceDefId" : "Tagged",
+                "lanceDefId" : "Manual",
                 "lanceTagSet" : {
                     "items" : [
                         "lance_type_support",
@@ -1310,7 +1310,7 @@
                         "customUnitName" : null,
                         "customHeraldryDefId" : null,
                         "unitType" : "Mech",
-                        "unitDefId" : "UseLance",
+                        "unitDefId" : "mechDef_None",
                         "unitTagSet" : {
                             "items" : [],
                             "tagSetSourceFile" : "tags/UnitTags"
@@ -1343,7 +1343,7 @@
                         "customUnitName" : null,
                         "customHeraldryDefId" : null,
                         "unitType" : "Mech",
-                        "unitDefId" : "UseLance",
+                        "unitDefId" : "mechDef_None",
                         "unitTagSet" : {
                             "items" : [],
                             "tagSetSourceFile" : "tags/UnitTags"
@@ -1376,7 +1376,7 @@
                         "customUnitName" : null,
                         "customHeraldryDefId" : null,
                         "unitType" : "Mech",
-                        "unitDefId" : "UseLance",
+                        "unitDefId" : "mechDef_None",
                         "unitTagSet" : {
                             "items" : [],
                             "tagSetSourceFile" : "tags/UnitTags"
@@ -1409,7 +1409,7 @@
                         "customUnitName" : null,
                         "customHeraldryDefId" : null,
                         "unitType" : "Mech",
-                        "unitDefId" : "UseLance",
+                        "unitDefId" : "mechDef_None",
                         "unitTagSet" : {
                             "items" : [],
                             "tagSetSourceFile" : "tags/UnitTags"
