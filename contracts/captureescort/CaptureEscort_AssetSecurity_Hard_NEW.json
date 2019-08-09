@@ -803,8 +803,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_vehicle",
-                        "lance_type_support"
+                        "lance_type_vehicle"
                     ],
                     "tagSetSourceFile": "Tags/LanceTags"
                 },
