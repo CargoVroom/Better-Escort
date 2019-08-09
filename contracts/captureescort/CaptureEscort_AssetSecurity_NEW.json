@@ -803,8 +803,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_vehicle",
-                        "lance_type_support"
+                        "lance_type_vehicle"
                     ],
                     "tagSetSourceFile": "Tags/LanceTags"
                 },
@@ -816,7 +815,7 @@
                     "items": [],
                     "tagSetSourceFile": "Tags/SpawnEffectTags"
                 },
-                "lanceDifficultyAdjustment": 0,
+                "lanceDifficultyAdjustment": 1,
                 "selectedLanceDefId": null,
                 "selectedLanceDifficulty": 0,
                 "unitSpawnPointOverrideList": [
@@ -829,10 +828,9 @@
                         "unitDefId": "Tagged",
                         "unitTagSet": {
                             "items": [
-                                "unit_carrier",
+                                "unit_vehicle_carrier",
                                 "unit_vehicle",
-                                "unit_heavy",
-                                "{CUR_TEAM.faction}"
+                                "unit_heavy"
                             ],
                             "tagSetSourceFile": "Tags/UnitTags"
                         },
@@ -866,10 +864,9 @@
                         "unitDefId": "Tagged",
                         "unitTagSet": {
                             "items": [
-                                "unit_carrier",
+                                "unit_vehicle_carrier",
                                 "unit_vehicle",
-                                "unit_heavy",
-                                "{CUR_TEAM.faction}"
+                                "unit_heavy"
                             ],
                             "tagSetSourceFile": "Tags/UnitTags"
                         },
@@ -903,10 +900,9 @@
                         "unitDefId": "Tagged",
                         "unitTagSet": {
                             "items": [
-                                "unit_carrier",
+                                "unit_vehicle_carrier",
                                 "unit_vehicle",
-                                "unit_heavy",
-                                "{CUR_TEAM.faction}"
+                                "unit_heavy"
                             ],
                             "tagSetSourceFile": "Tags/UnitTags"
                         },
@@ -940,10 +936,9 @@
                         "unitDefId": "Tagged",
                         "unitTagSet": {
                             "items": [
-                                "unit_carrier",
+                                "unit_vehicle_carrier",
                                 "unit_vehicle",
-                                "unit_heavy",
-                                "{CUR_TEAM.faction}"
+                                "unit_heavy"
                             ],
                             "tagSetSourceFile": "Tags/UnitTags"
                         },
